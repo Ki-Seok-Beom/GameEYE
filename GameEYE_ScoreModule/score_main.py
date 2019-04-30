@@ -13,7 +13,7 @@ import sys
 
 def main(target_match):
     
-    api_key = 'RGAPI-9dd52813-0563-43ba-b9a0-548abcb98b48'
+    api_key = 'RGAPI-891dfb1c-f002-45dc-9545-ae5e5675e76a'
     my_region = 'KR'
     # target_match = "3577231010" # target gameId # 3560163449 game of winners tempo #3577231010
     # global champion_dict
